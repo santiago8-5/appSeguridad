@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "369031944526",
+    "project_id": "app-seguridad-ae41f",
+    "storage_bucket": "app-seguridad-ae41f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369031944526:android:d080a7f0ccbed55829661f",
+        "android_client_info": {
+          "package_name": "com.example.proyect_segu_v2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhzTLwgWBSoT9aWW4y7eSpF_HeCx4fPFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
